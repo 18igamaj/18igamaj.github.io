@@ -1,1 +1,40 @@
+body {
+  background-color: teal;
+}
 
+h1{
+   text-align: center;
+  border: 10px solid ;
+  color: white;
+  font-size: 34px;
+  font-family: Arial,Times New Roman, san-serif;
+}
+h2{
+  text-align: center;  
+  color: white;
+  font-family: San-serif;
+}
+h3{
+  color:white;
+  font-family: san-serif;
+}
+h4{
+  color: white;
+  font-family: san-serif
+}
+u{
+  color: white;
+}
+b{
+  color: white;
+}
+.header3{
+text-align:center;
+  border: 2px solid black;
+  background-color: grey;
+  padding-left: 20px;
+  padding-right:15px;
+  margin-left:3px;
+  color: white;
+  
+}
